@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sm5dYl8jMOw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cnr24\\Documents\\GitHub\\aw-3-caner24\\Para.Api\\Para.Schema\\Para.Schema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cnr24\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\cnr24\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

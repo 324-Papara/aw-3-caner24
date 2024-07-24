@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KzrlIHsdtkM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cnr24\\Documents\\GitHub\\aw-3-caner24\\Para.Api\\Para.Application\\Para.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cnr24\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\cnr24\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\cnr24\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
